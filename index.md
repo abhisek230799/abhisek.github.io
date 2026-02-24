@@ -1,10 +1,12 @@
-# My First Article
+# SEO Tools Playground
 
-Hello world!  
-This is my first blog article using GitHub Pages.  
+This site now includes a **Google Search Console multi-project traffic dashboard**.
 
-- It’s free  
-- It’s public  
-- It can be seen by Google  
+## Available tools
 
-Stay tuned for more!
+- [SEO Traffic Trends Dashboard](./seo-dashboard.html) — connect your GSC account and view traffic trends for all your projects in one chart.
+
+## Notes
+
+- You need your own Google OAuth client ID to use the dashboard.
+- The tool supports clicks and impressions trends by date.
